@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+.box2 {
+    width: 945px;
+    height: 370px;
+
+    /* 短いバージョン */
+    color:white;
+    background: bisque;
+    background-image: url("../img/02.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    /* 上下0　左右がauto */
+    margin:0 auto;
+}
+
+.box2 p{
+    color:white;
+    font-size:50px;
+    font-weithg:bold;
+    text-align:center;
+    padding-top: 165px;
+}
